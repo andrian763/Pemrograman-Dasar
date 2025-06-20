@@ -24,4 +24,3 @@ Aplikasi ini dirancang untuk membantu simulasi sistem kasir di sebuah kafe seder
 - ✅ Cetak struk pembelian secara langsung.
 - ✅ Simpan struk ke file `.txt`.
 
-## 📂 Struktur Proyek
